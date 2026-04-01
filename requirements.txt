@@ -7,3 +7,4 @@ requests
 tldextract
 beautifulsoup4
 lxml
+pycaret
